@@ -6,14 +6,10 @@ import com.aventstack.extentreports.reporter.ExtentSparkReporter;
 import config.Conf;
 import io.appium.java_client.android.AndroidDriver;
 import org.junit.AfterClass;
-import org.junit.Assert;
 import org.junit.Before;
 import org.junit.BeforeClass;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import pageobject.HomePage;
 

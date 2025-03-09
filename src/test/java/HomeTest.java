@@ -1,8 +1,6 @@
-import com.aventstack.extentreports.MediaEntityBuilder;
 import com.aventstack.extentreports.Status;
 import org.junit.*;
 import org.junit.runners.MethodSorters;
-import pageobject.HomePage;
 
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)
 public class HomeTest extends BaseTest {
